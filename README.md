@@ -1,0 +1,2 @@
+# Mysound
+Spotify Rater
